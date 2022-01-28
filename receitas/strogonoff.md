@@ -13,6 +13,7 @@
 * - [ ] 1 copo de cogumelos
 * - [ ] 1 copo de creme de leite
 * - [ ] batata palha a gosto
+* - [ ] novo ingrediente
 
 ### Modo de Preparo
 
